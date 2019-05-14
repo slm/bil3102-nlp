@@ -1,0 +1,1 @@
+["garfield", "sinema", "film", "gösterim", "film", "yara", "kedi", "seslen", "okan", "bayülgen", "gala", "için", "önce", "gece", "eti", "sinema", "küba", "manken", "sevgili", "liz", "gel", "şovmen", "ilişki", "gayet", "iyi", "git", "ancak", "yabancı", "uyruk", "biri", "evlen", "düşün", "esteve", "ise", "söz", "karşı", "yorum", "yap"]

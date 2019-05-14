@@ -1,0 +1,1 @@
+["tempo", "daha", "iyi", "samet", "aybaba", "hazırlık", "maç", "rağmen", "çok", "hırs", "tempo", "bir", "maç", "oyna", "söyle", "fenerbahçe", "daha", "iyi", "oyna", "kaydet", "aybaba", "ancak", "saha", "yakış", "hareket", "meydan", "gel", "böyle", "bir", "turnuva", "birbiri", "alkışla", "lig", "nasıl", "bit", "diye", "konuş"]

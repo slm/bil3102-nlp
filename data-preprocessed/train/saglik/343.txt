@@ -1,0 +1,1 @@
+["batı", "çoğu", "çocuk", "kişi", "gir", "havuz", "klor", "zehirle", "bil", "yerel", "yetkili", "havuz", "yüz", "solunum", "zor", "çek", "ardından", "yardım", "ekip", "zehirle", "hemen", "müdahale", "zehirle", "önlem", "hastane", "kaldır", "belir"]

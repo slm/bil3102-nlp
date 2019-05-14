@@ -1,0 +1,1 @@
+["kadın", "işçi", "saat", "fazla", "çalış", "kadın", "işçi", "gece", "posta", "saat", "fazla", "çalış", "kadın", "işçi", "gece", "posta", "çalış", "koşul", "hak", "yönetmelik", "resmi", "yayımla", "yönetmelik", "işyeri", "yaş", "dol", "kadın", "gece", "posta", "çalış", "ile", "ilgili", "koşul", "kapsa"]

@@ -1,0 +1,1 @@
+["komşu", "rahat", "yakışıklı", "oyun", "leonardo", "baş", "evin", "bahçe", "yap", "basketbol", "saha", "yüz", "komşu", "bela", "gir", "komşu", "basketbol", "saha", "aşırı", "ışıklan", "yap", "manzara", "kapa", "gerekçe", "polis", "şikayet"]

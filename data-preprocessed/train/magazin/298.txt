@@ -1,0 +1,1 @@
+["mersin", "konser", "ver", "rock", "müzik", "isim", "hayran", "büyük", "ilgi", "göster", "erdemli", "ilçe", "bağ", "kumkuyu", "belde", "park", "hotel", "sahil", "düzenle", "teoman", "konser", "her", "kesim", "insan", "katıl", "öze", "genç", "kız", "sanat", "birbiri", "hareket", "şarkı", "coş", "genç", "kız", "gece", "ilerle", "saat", "doğru", "günlük", "kıyafet", "deniz", "gir"]

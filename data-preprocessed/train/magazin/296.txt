@@ -1,0 +1,1 @@
+["yıl", "yap", "antalya", "altın", "portakal", "film", "festival", "istanbul", "topla", "düzenle", "kurulu", "ekim", "tarih", "ara", "yap", "festival", "yaşam", "boy", "onur", "ödül", "ver", "erkek", "sanat", "şener", "şen", "belirle", "hafta", "tekrar", "topla", "kurul", "yaşam", "boy", "onur", "ödül", "kadın", "sanat", "kesin"]

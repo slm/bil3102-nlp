@@ -1,0 +1,1 @@
+["fikstür", "çek", "voleybol", "erkek", "bayan", "sezon", "birinci", "lig", "fikstür", "kura", "çek", "ligi", "birinci", "voleybol", "ligi", "değiş", "takım", "başla", "planla", "mücadele", "erkek", "halk", "banka", "bayan", "ise", "dicle", "üniversite", "lig", "çek", "ilk", "devre", "ekim", "başla", "ikinci", "yarı", "ise", "ocak", "start"]

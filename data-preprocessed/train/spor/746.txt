@@ -1,0 +1,1 @@
+["botaş", "şok", "karar", "basketbol", "bayan", "birinci", "ligi", "geç", "sezon", "tüm", "kupa", "botaş", "avrupa", "kupa", "katıl", "başkan", "gürhan", "ünal", "enerji", "tabii", "kaynak", "bakanlık", "genel", "müdür", "talimat", "gereğince", "harca", "aşağı", "çek", "belir", "devlet", "kuruluş", "biz", "ver", "talimat", "zor"]
