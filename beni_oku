@@ -1,4 +1,9 @@
-Proje dosyalarının ve klasörlerinin genel tanıtımı.
+Proje Grubu:
+ - Selim YILDIZ 2016280035
+ - Can ÖZMEN 2016280045
+--------------------------------------------------------------------------------------------
+
+* Proje dosyalarının ve klasörlerinin genel tanıtımı.
 
 data/ : train ve test datalarının olduğu klasör.
 
@@ -6,7 +11,7 @@ data-preprocessed/ : zemberek ile işlenmiş train verilerinin olduğu klasör.
 
 reports/ : modellerin precision,recall,f1-score değerlerinin csv dosyasında olduğu klasör.
 
-scripts/ : jupyter defterlerinin olduğu klasör.
+scripts/ : jupyter defterlerinin ve bu defterlerin çalışması gerekli olan dosyaların olduğu klasör.
 
 zemberek/ : zemberek ile ilgili dosyaların ve çalıştıralabilir zemberek java paketinin olduğu klasör.
 
@@ -19,9 +24,17 @@ tf.csv : tüm özniteliklerin sıklık tablosu
 
 Her bir jupyter dosyasının en üstünde o scriptin ne yaptığı anlatılmıştır.
 Terim frekansları yöntemi kullanılmıştır.
+Birden fazla sınıflandırma algoritması kullanılmıştır. Bu algoritmaların raporları reports/ klasöründedir.
 
-Projeyi çalıştırmak için.
--
--
--
--
+Projenin Çalıştırılması:
+
+- Proje python 3 ve jupyter kullanılarak oluşturulmuştur.
+
+- Projenin çalışması için gerekli bağımlılıklar ./scripts/requirements.txt dizininde belirtilmiştir. `pip install -r requirements.txt` komutu ile kurulabilir.
+
+- Projeyi çalıştırmak için scripts klasörünün içerisinde start-zemberek.sh scripti çalıştırılmalıdır. Bu işlem için jre(Java Runtime Enviroment) kurulu olması gerekmektedir. Bu komut ile 
+preprocessing işlemlerini yapabilen bir zemberek grpc sunucusu çalışır
+
+- Eğer sadece prediction işlemi yapılacaksa ve prediction_test defteri kullanılacaksa zemberek sunucusuna gerek  gerek yoktur.
+
+- `jupyter notebook` komutu ile jupyter defterlerine erişilebilir.
