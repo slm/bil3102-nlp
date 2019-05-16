@@ -9,18 +9,11 @@ data/ : train ve test datalarının olduğu klasör.
 
 data-preprocessed/ : zemberek ile işlenmiş train verilerinin olduğu klasör.
 
-reports/ : modellerin precision,recall,f1-score değerlerinin csv dosyasında olduğu klasör.
+reports/ : modellerin precision,recall,f1-score değerlerinin ve terim frekansları dosyalarının csv formatında bulunduğu klasör.
 
 scripts/ : jupyter defterlerinin ve bu defterlerin çalışması gerekli olan dosyaların olduğu klasör.
 
 zemberek/ : zemberek ile ilgili dosyaların ve çalıştıralabilir zemberek java paketinin olduğu klasör.
-
-reduced_data.csv : özniteliklerin 5000'e düşürülmüş hali.
-
-test_data.csv : test verilerinin sıklık tablosu.
-
-tf.csv : tüm özniteliklerin sıklık tablosu
-
 
 Her bir jupyter dosyasının en üstünde o scriptin ne yaptığı anlatılmıştır.
 Terim frekansları yöntemi kullanılmıştır.
