@@ -1,4 +1,4 @@
-,ekonomi,saglik,magazin,spor,ortalama
-precision,1.00,0.95,0.94,0.99,0.97
-recall,0.94,0.97,1.00,0.96,0.96
-f1-score,0.97,0.96,0.97,0.97,0.97
+,spor,saglik,magazin,ekonomi,ortalama
+precision,0.99,0.95,0.95,0.99,0.97
+recall,0.96,0.97,0.97,0.96,0.96
+f1-score,0.97,0.96,0.96,0.97,0.96
